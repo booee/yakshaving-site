@@ -9,7 +9,9 @@
     "konfig": "^0.2.0"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/brad-bowie/yakshaving-site.git"
