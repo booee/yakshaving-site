@@ -5,6 +5,11 @@ body {
 
 li {
 	padding-bottom: 1em;
+	list-style-type: none;
+}
+
+p.ghost, p.ghost a {
+	color: #EEEEEE;
 }
 
 span.usage {
