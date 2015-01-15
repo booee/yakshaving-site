@@ -5,7 +5,6 @@ body {
 
 li {
 	padding-bottom: 1em;
-	list-style-type: none;
 }
 
 p.ghost, p.ghost a {
@@ -13,7 +12,7 @@ p.ghost, p.ghost a {
 }
 
 span.usage {
-	padding-left: 1em;
+	padding-left: 2em;
 	color: gray;
     font-style: italic;
 }
